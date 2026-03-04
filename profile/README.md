@@ -52,13 +52,48 @@ We believe in building practical solutions and shipping fast. Every project star
 
 ---
 
-## 🌐 Official Links
+## � Hackathon Achievements
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/coded-devs)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/codedDevs)
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@coded_dev.team)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrt9_40H9W8YwfYwP62DPEw)
-[![Email](https://img.shields.io/badge/-Contact_Us-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:codeddevs.team@gmail.com)
+Powered by [**Africa's Talking**](https://github.com/AfricasTalkingLtd) hackathons 🌍
+
+| Project                                                 | Hackathon                                                                  | Placement        |
+| ------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------- |
+| **💬 [DialAI](https://dailai.vercel.app)**              | Build with AI Build with AT: Generative AI + APIs Across Africa (Feb 2026) | 🥇 **1st Place** |
+| **🏗️ [SwiftTrade](https://swift-trade-psi.vercel.app)** | Build for Hardware Lagos: Africa's Talking Innovation Hackathon (Feb 2026) | 🥉 **3rd Place** |
+
+---
+
+## 👥 The Team
+
+|     | Name      | Role                                                 | GitHub                                                                                                                                                 |
+| --- | --------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🧑‍💻  | **Ameen** | Backend Lead · Full Stack Engineer · Prompt Engineer | [![GitHub](https://img.shields.io/badge/-onerandomdevv-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/onerandomdevv)        |
+| 🧑‍💻  | **Yusuf** | AI Engineer Lead · Full Stack Engineer               | [![GitHub](https://img.shields.io/badge/-SAHEED2010-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SAHEED2010)              |
+| 🎨  | **Musty** | Frontend Engineer · UI/UX Designer                   | [![GitHub](https://img.shields.io/badge/-amoomustakim--hue-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amoomustakim-hue) |
+
+---
+
+## �🌐 Official Links
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/coded-devs) **codedDevs**
+
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/codedDevs) **@codedDevs**
+
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@coded_dev.team) **@coded_dev.team**
+
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrt9_40H9W8YwfYwP62DPEw) **codedDevs**
+
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:codeddevs.team@gmail.com) **codeddevs.team@gmail.com**
+
+---
+
+## 📊 GitHub Activity
+
+![Ameen's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=onerandomdevv&theme=github-dark&hide_border=true&bg_color=0D1117&color=7FFF00&line=7FFF00&point=FFFFFF&area=true&area_color=7FFF00&title=Ameen's%20Contributions)
+
+![Yusuf's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=SAHEED2010&theme=github-dark&hide_border=true&bg_color=0D1117&color=7FFF00&line=7FFF00&point=FFFFFF&area=true&area_color=7FFF00&title=Yusuf's%20Contributions)
+
+![Musty's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=amoomustakim-hue&theme=github-dark&hide_border=true&bg_color=0D1117&color=7FFF00&line=7FFF00&point=FFFFFF&area=true&area_color=7FFF00&title=Musty's%20Contributions)
 
 ---
 
