@@ -38,7 +38,7 @@
 ## 🚀 Current Projects
 
 - **💬 [DialAI](https://dailai.vercel.app)** – Offline-first AI assistant accessible via phone (USSD, SMS, voice). Built for low-connectivity environments
-- **🎓 [FindMyCenter](https://github.com/onerandomdevv/find-my-center)** – Location discovery platform helping Nigerian JAMB students find exam centers on slow networks
+- **🎓 [FindMyCenter](https://github.com/coded-devs/find-my-center.git)** – Location discovery platform helping Nigerian JAMB students find exam centers on slow networks
 
 ---
 
