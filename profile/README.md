@@ -2,7 +2,7 @@
   <img src="logo.jpg" alt="Coded Devs Logo" width="200" style="border-radius: 50%" />
 </div>
 
-<h1 align="center">Coded Devs 🚀</h1>
+<h1 align="center">Coded Devs </h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7FFF00&center=true&vCenter=true&width=500&lines=Building+Real-World+Software;AI-Powered+Solutions;Learning+%E2%86%92+Building+%E2%86%92+Shipping;From+Hackathons+to+Products" alt="Typing SVG" />
 </h3>
