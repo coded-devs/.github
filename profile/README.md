@@ -87,16 +87,6 @@ Powered by [**Africa's Talking**](https://github.com/AfricasTalkingLtd) hackatho
 
 ---
 
-## 📊 GitHub Activity
-
-![Ameen's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=onerandomdevv&theme=github-dark&hide_border=true&bg_color=0D1117&color=7FFF00&line=7FFF00&point=FFFFFF&area=true&area_color=7FFF00&title=Ameen's%20Contributions)
-
-![Yusuf's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=SAHEED2010&theme=github-dark&hide_border=true&bg_color=0D1117&color=7FFF00&line=7FFF00&point=FFFFFF&area=true&area_color=7FFF00&title=Yusuf's%20Contributions)
-
-![Musty's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=amoomustakim-hue&theme=github-dark&hide_border=true&bg_color=0D1117&color=7FFF00&line=7FFF00&point=FFFFFF&area=true&area_color=7FFF00&title=Musty's%20Contributions)
-
----
-
 ## 🤝 Get Involved
 
 If you're a **developer**, **designer**, or **builder** who loves creating impactful software, we'd love to collaborate.
