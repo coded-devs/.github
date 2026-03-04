@@ -52,12 +52,19 @@ We believe in building practical solutions and shipping fast. Every project star
 
 ---
 
+## 🌐 Official Links
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/coded-devs)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/codedDevs)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@coded_dev.team)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrt9_40H9W8YwfYwP62DPEw)
+[![Email](https://img.shields.io/badge/-Contact_Us-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:codeddevs.team@gmail.com)
+
+---
+
 ## 🤝 Get Involved
 
 If you're a **developer**, **designer**, or **builder** who loves creating impactful software, we'd love to collaborate.
-
-[![GitHub](https://img.shields.io/badge/-Coded_Devs-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/coded-devs)
-[![Email](https://img.shields.io/badge/-Email_Us-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:codeddevs.team@gmail.com)
 
 ---
 
