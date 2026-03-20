@@ -63,7 +63,7 @@ Powered by [**Africa's Talking**](https://github.com/AfricasTalkingLtd) hackatho
 | Project                                                 | Hackathon                                                                  | Placement        |
 | ------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------- |
 | **💬 [DialAI](https://dailai.vercel.app)**              | Build with AI Build with AT: Generative AI + APIs Across Africa (Feb 2026) | 🥇 **1st Place** |
-| ** 🛒 [Swifta](https://www.swifta.store)**              | Africa's Talking and Google Build with AI Program Finale - Kenya, Nigeria and South Africa. | 🥇 **1st Place** |
+| **🛒 [Swifta](https://www.swifta.store)**              | Africa's Talking and Google Build with AI Program Finale - Kenya, Nigeria and South Africa. | 🥇 **1st Place** |
 | **🏗️ [Swiftrade](https://swift-trade-psi.vercel.app)** | Build for Hardware Lagos: Africa's Talking Innovation Hackathon (Feb 2026) | 🥉 **3rd Place** |
 
 ---
@@ -72,7 +72,7 @@ Powered by [**Africa's Talking**](https://github.com/AfricasTalkingLtd) hackatho
 
 |     | Name      | Role                                                 | GitHub                                                                                                                                                 |
 | --- | --------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🧑‍💻  | **Ameen** | Backend Lead · Full Stack Software Engineer  | [![GitHub](https://img.shields.io/badge/-onerandomdevv-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/onerandomdevv)        |
+| 🧑‍💻  | **Ameen** | Full Stack Software Engineer  | [![GitHub](https://img.shields.io/badge/-onerandomdevv-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/onerandomdevv)        |
 | 🧑‍💻  | **Yusuf** | Full Stack Software Engineer   | [![GitHub](https://img.shields.io/badge/-SAHEED2010-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SAHEED2010)              |
 | 🎨  | **Musty** | Business Developer     | [![GitHub](https://img.shields.io/badge/-amoomustakim--hue-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amoomustakim-hue) |
 
