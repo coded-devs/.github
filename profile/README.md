@@ -4,7 +4,7 @@
 
 <h1 align="center">Coded Devs </h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7FFF00&center=true&vCenter=true&width=500&lines=Building+Real-World+Software;AI-Powered+Solutions;Learning+%E2%86%92+Building+%E2%86%92+Shipping;From+Hackathons+to+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7FFF00&center=true&vCenter=true&width=500&lines=Building+Scalable+Software;AI-Powered+Solutions;Learning+%E2%86%92+Building+%E2%86%92+Shipping;From+Hackathons+to+Products" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -43,6 +43,7 @@
 
 - **💬 [DialAI](https://dailai.vercel.app)** – Offline-first AI assistant accessible via phone (USSD, SMS, voice). Built for low-connectivity environments
 - **🎓 [FindMyCenter](https://github.com/coded-devs/find-my-center.git)** – Location discovery platform helping Nigerian JAMB students find exam centers on slow networks
+- **🎓 [Swifta](https://swifta.store)** – Buy and sell anything on WhatsApp with escrow payment protection. Discover products, follow merchants, and shop securely — all from the app you already use.
 
 ---
 
