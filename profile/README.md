@@ -58,9 +58,6 @@ We believe in building practical solutions and shipping fast. Every project star
 ---
 
 ## � Hackathon Achievements
-
-Powered by [**Africa's Talking**](https://github.com/AfricasTalkingLtd) hackathons 🌍
-
 | Project                                                 | Hackathon                                                                  | Placement        |
 | ------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------- |
 | **💬 [DialAI](https://dailai.vercel.app)**              | Build with AI Build with AT: Generative AI + APIs Across Africa (Feb 2026) | 🥇 **1st Place** |
