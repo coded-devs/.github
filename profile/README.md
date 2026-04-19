@@ -66,16 +66,6 @@ We believe in building practical solutions and shipping fast. Every project star
 
 ---
 
-## 👥 The Team
-
-|     | Name      | Role                                                 | GitHub                                                                                                                                                 |
-| --- | --------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🧑‍💻  | **Ameen** | Full Stack Software Engineer  | [![GitHub](https://img.shields.io/badge/-onerandomdevv-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/onerandomdevv)        |
-| 🧑‍💻  | **Yusuf** | Full Stack Software Engineer   | [![GitHub](https://img.shields.io/badge/-SAHEED2010-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SAHEED2010)              |
-| 🎨  | **Musty** | Business Developer     | [![GitHub](https://img.shields.io/badge/-amoomustakim--hue-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amoomustakim-hue) |
-
----
-
 ## �🌐 Official Links
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/coded-devs) **codedDevs**
