@@ -1,13 +1,8 @@
 <div align="center">
-  <img src="logo.jpg" alt="Coded Devs Logo" width="200" style="border-radius: 50%" />
+  <img src="github-banner.png" alt="CodedDevs banner" height="350" width="700" />
 </div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7FFF00&center=true&vCenter=true&width=500&lines=Building+Scalable+Software;AI-Powered+Solutions;Learning+%E2%86%92+Building+%E2%86%92+Shipping;From+Hackathons+to+Products" alt="Typing SVG" />
-</h3>
-
----
-## 🔥 What We Build
+## 🔥 What We Build 
 
 - 🤖 **AI-powered tools** – Intelligent systems that solve real problems, even offline
 - 🌐 **Web applications** – Full-stack platforms with premium user experiences
@@ -33,8 +28,6 @@
 | **🏗️ [Swiftrade](https://swift-trade-psi.vercel.app)** | Build for Hardware Lagos: Africa's Talking Innovation Hackathon (Feb 2026) | 🥉 **3rd Place** |
 
 ---
-
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=coded-devs&color=7FFF00&style=flat-square&label=Profile+Views" alt="Profile Views" />
