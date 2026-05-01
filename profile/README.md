@@ -3,7 +3,7 @@
 </div>
 
 ## About Us
-CodedDevs Technology LTD is an African startup building AI-powered products and Open-source tools that help businesses grow, scale, and operate more efficiently.
+CodedDevs Technology LTD is an African startup building AI products and Open-source tools that help businesses grow, scale, and operate more efficiently.
 
 We develop a portfolio of products across social commerce, e-commerce, and AI-driven tools designed to enable seamless transactions, stronger digital presence, and smarter growth for businesses while helping consumers discover and connect with trusted and verified businesses effortlessly.
 
