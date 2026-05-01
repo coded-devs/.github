@@ -2,15 +2,9 @@
   <img src="logo.jpg" alt="Coded Devs Logo" width="200" style="border-radius: 50%" />
 </div>
 
-<h1 align="center">Coded Devs </h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7FFF00&center=true&vCenter=true&width=500&lines=Building+Scalable+Software;AI-Powered+Solutions;Learning+%E2%86%92+Building+%E2%86%92+Shipping;From+Hackathons+to+Products" alt="Typing SVG" />
 </h3>
-
-<p align="center">
-  We are a small team of developers building real-world software solutions and AI-powered tools.<br />
-  Our journey started through hackathons and collaborative projects — now we're focused on building scalable products.
-</p>
 
 ---
 ## 🔥 What We Build
@@ -30,15 +24,6 @@
 
 ---
 
-## 💭 Our Philosophy
-
-```
-Learning → Building → Shipping
-```
-
-We believe in building practical solutions and shipping fast. Every project starts with a real problem, gets built with modern tools, and gets shipped to real users.
-
----
 
 ## � Hackathon Achievements
 | Project                                                 | Hackathon                                                                  | Placement        |
