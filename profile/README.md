@@ -3,25 +3,26 @@
 </div>
 
 ## About Us
+CodedDevs Technology LTD is an African startup building AI-powered products that help businesses grow, scale, and operate more efficiently.
 
-- 🤖 **AI-powered tools** – Intelligent systems that solve real problems, even offline
-- 🌐 **Web applications** – Full-stack platforms with premium user experiences
-- 🔧 **Developer tools** – Utilities and solutions that make building easier
-- 💡 **Real-world problem solving** – Software designed for African markets and beyond
+We develop a portfolio of products across social commerce, e-commerce, and AI-driven tools designed to enable seamless transactions, stronger digital presence, and smarter growth for businesses while helping consumers discover and connect with trusted and verified businesses effortlessly.
 
----
+Our approach is AI-first and deeply focused on the African market, solving real-world challenges unique to the region.
 
-## 🚀 Products & Services
+Currently in pre-launch, we are building our first product, Twizrr, alongside a growing suite of tools aimed at powering the next generation of digital businesses in Africa.
+
+## Products & Services
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="200" align="center" style="border: none;">
-        <img src="images/Twizrrlogo.png" width="180" style="border-radius: 20px;" />
+        <img src="images/Twizrr.png" width="180" style="border-radius: 20px;" />
       </td>
       <td style="border: none;" align="left">
-        <h3>🛍️ Twizrr</h3>
-        <p>A social-commerce marketplace where users discover products through a scrollable feed, follow merchants, and buy with secure escrow payments, while sellers manage orders and get paid instantly.</p>
+        <h3>Twizrr</h3>
+        <p>An open-source, AI-powered social commerce platform enabling product discovery through a scrollable feed, seamless escrow-secured purchases, and instant payouts for merchants.</p>
+        <p>Status: *Development*</p>
         <a href="https://github.com/coded-devs/twizrr.git">
           <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
         </a>
@@ -29,10 +30,6 @@
     </tr>
   </table>
 </div>
-
-
-
----
 
 ## Hackathon Achievements
 | Project                                                 | Hackathon                                                                  | Placement        |
