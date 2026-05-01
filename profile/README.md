@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="github-banner.png" alt="CodedDevs banner" height="350" width="700" />
+  <img src="images/github-banner.png" alt="CodedDevs banner" height="350" width="700" />
 </div>
 
-## 🔥 What We Build 
+## About Us
 
 - 🤖 **AI-powered tools** – Intelligent systems that solve real problems, even offline
 - 🌐 **Web applications** – Full-stack platforms with premium user experiences
@@ -11,16 +11,30 @@
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Products & Services
 
-- **💬 [DialAI](https://dailai.vercel.app)** – Offline-first AI assistant accessible via phone (USSD, SMS, voice). Built for low-connectivity environments
-- **🎓 [FindMyCenter](https://github.com/coded-devs/find-my-center.git)** – Location discovery platform helping Nigerian JAMB students find exam centers on slow networks
-- **🎓 [Swifta](https://swifta.store)** – Buy and sell anything on WhatsApp with escrow payment protection. Discover products, follow merchants, and shop securely — all from the app you already use.
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="200" align="center" style="border: none;">
+        <img src="images/Twizrrlogo.png" width="180" style="border-radius: 20px;" />
+      </td>
+      <td style="border: none;" align="left">
+        <h3>🛍️ Twizrr</h3>
+        <p>A social-commerce marketplace where users discover products through a scrollable feed, follow merchants, and buy with secure escrow payments, while sellers manage orders and get paid instantly.</p>
+        <a href="https://github.com/coded-devs/twizrr.git">
+          <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 ---
 
-
-## � Hackathon Achievements
+## Hackathon Achievements
 | Project                                                 | Hackathon                                                                  | Placement        |
 | ------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------- |
 | **💬 [DialAI](https://dailai.vercel.app)**              | Build with AI Build with AT: Generative AI + APIs Across Africa (Feb 2026) | 🥇 **1st Place** |
